@@ -84,3 +84,7 @@ foreach($categories as $category) {
     echo $category['count']; 
 }
 ```
+
+## Special Thanks
+
+Thanks to [Catapult Themes](https://catapultthemes.com/adding-an-image-upload-field-to-categories/) for their code on how to create a category image!
