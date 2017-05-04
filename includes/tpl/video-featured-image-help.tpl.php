@@ -1,0 +1,1 @@
+<p>Upon uploading of this video, the server will make the featured image a thumbnail from the Vimeo ID provided.<br /><br />To override this feature, simply replace the image once it has added in.</p>
